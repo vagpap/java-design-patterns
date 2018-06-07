@@ -1,4 +1,4 @@
-package gr.wackydevelopers.patterns.behavioral.singleton;
+package gr.wackydevelopers.patterns.creational.singleton;
 
 public class LazyInitSingleton {
 
